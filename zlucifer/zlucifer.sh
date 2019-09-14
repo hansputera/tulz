@@ -25,5 +25,6 @@ git clone https://github.com/zlucifer/nmap_lite.git
 git clone https://github.com/zlucifer/termux_alice.git
 clear
 echo "[>] Sukses Mengkloning data [<]"
+cd $HOME
 clear
 exit
