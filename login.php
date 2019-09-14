@@ -64,4 +64,5 @@ if ($user == $username && $pass == $password){
 	}
 } else {
 	echo "[!] Failed to Login [!]\n";
+}
 ?>
