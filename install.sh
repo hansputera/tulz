@@ -1,8 +1,11 @@
+
+g="\033[1;32m"
+
 clear
-echo "\033[1;32m=> Installing... <="
+echo "=> Installing... <="
 sleep 2
 clear
-echo "\033[1;37m=> [ JANGAN MENEKAN CTRL + C SAAT PROSES BERLANGSUNG ]"
+echo -e $g "=> [ JANGAN MENEKAN CTRL + C SAAT PROSES BERLANGSUNG ]"
 pkg install python2
 pkg install python
 pkg install curl
