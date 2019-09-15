@@ -5,6 +5,8 @@
 $username = "hans";
 $password = "puTera01";
 
+system('clear');
+	
 echo "\033[1;32m [!] Halaman Login [!]\n";
 echo "[>] Insert Username : ";
 $user = trim(fgets(STDIN));
