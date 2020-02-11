@@ -34,6 +34,6 @@ clear
 sleep 0.1
 echo "[!] Hubungi Mr.Y0uKn0wM3 jika ada masalah [!]"
 sleep 0.9
-echo "[>] Username dan Password tersedia di file user.txt & pass.txt [<]"
+echo "[>] Username dan Password tersedia di code.. [<]"
 sleep 2
 php login.php
